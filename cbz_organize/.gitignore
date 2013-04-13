@@ -1,0 +1,5 @@
+*
+!.gitignore
+!convert.sh
+!converted
+!output
